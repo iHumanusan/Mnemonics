@@ -1,4 +1,3 @@
-# Lesson 6
 
 | No. | Japanese | English Meaning | Mnemonics |
 |-----|-----------|-----------------|------------|
