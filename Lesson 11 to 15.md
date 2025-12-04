@@ -297,3 +297,83 @@ The **が** in expressions such as **すみませんが** and **しつれいで�
 
 ---
 
+# **Lesson 15**
+
+---
+
+## **1. Vて-form も いいですか**
+
+_May I do … ?_
+### **れい 1**
+
+① **しゃしんを とっても いいですか。**  
+_May I take a photo?_
+
+---
+### **When withholding permission (soft refusal)**
+
+② **ここで たばこを すっても いいですか。**  
+_May I smoke here?_
+
+- **ええ、［すっても］いいですよ。**  
+    _Yes, you may [smoke]._
+- **すみません、ちょっと……。のどが いたいですから。**  
+    _Sorry, I'd prefer if you didn’t… my throat hurts._
+
+---
+### **When stating something is prohibited**
+
+③ **ここで たばこを すっても いいですか。**  
+_Is it all right to smoke here?_
+
+- **ええ、［すっても］いいですよ。**  
+    _Yes, it’s fine [to smoke]._
+- **いいえ、［すっては いけません］。きんえんですから。**  
+    _No, you may not. It’s a no-smoking area._
+
+---
+Here is **Lesson 15** rewritten cleanly in the same style as your Lesson 14 notes — **no extra**, only the textbook content formatted clearly.
+
+---
+## **2. Vて-form は いけません**
+You must not do …  
+- This sentence pattern is used to express prohibition.  
+- This expression cannot be used by someone of lower status to someone of higher status.
+---
+## **3. Vて-form います**
+
+This sentence pattern is used in the following ways, in addition to expressing a continuing action (Lesson 14).
+### **1) To show a state**
+
+(mainly with verbs used in the 〜ています form)
+
+### **2) Vていません (= not doing … / not in the state of …)**
+
+**[Note 1]**  
+The negative of **しっています** is **しりません**.  
+Do **not** say **しっていません**.
+
+**[Note 2]**  
+The phrase **もっています** can mean either:
+
+- having something with you at the moment
+- owning it
+### **3) To show a habitual action, occupation, or personal status**
+
+(the same action repeated over a long period)
+
+---
+
+## **5. Nに V**
+
+- The particle **に** is used with verbs such as:  
+はいります、すわります、のります (ride; see Lesson 16), のぼります (climb, go up; Lesson 19), つきます (arrive; Lesson 25).  
+- It indicates the location of the subject resulting from the action.
+
+---
+## **6. N₁に N₂を V**
+
+The particle **に** indicates the location (**N₁**) of **N₂** as the result of an action.
+
+---
+
