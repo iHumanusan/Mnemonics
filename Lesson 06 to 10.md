@@ -101,13 +101,9 @@ For the question **もう Vましたか**:
 Particles are often omitted in _informal speech_ when the relationships between the words are obvious.
 
 ---
-
-Here is **Lesson 8**, formatted exactly the same way as Lessons 6 & 7 — clean headings, bullet points, sub-points, spacing, **no content changed**.
-
----
-
 # **Lesson 8**
 
+---
 ### ***1. Adjectives***
 
 Adjectives are used as predicates, and in sentences like **Nは adj です** they indicate the state of a noun or modify a noun.  
