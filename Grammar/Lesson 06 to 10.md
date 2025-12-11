@@ -26,7 +26,7 @@
         - **なんで** is used to ask _"Why?"_ as well as _"How?"_    
         - **なにで** can be used when the speaker wants to clearly ask _"How?"_
     2. When using it with a **counter suffix**.
-- **なに** is used in all other cases aside from 1) and 2).
+- **なに** is used in all other cases aside from (i) and (ii).
 
 ---
 ## **5. _N(place) で V_**
@@ -209,10 +209,6 @@ In this lesson, it is used when the speaker is **thinking**.
 - **から** is placed at the end of the reply giving the reason.    
 - The question **どうしてですか** is used to ask the reason for something the other person has just said, instead of repeating what they said.
     
----
-
-Here is **Lesson 10**, formatted exactly like Lesson 9, with _italic headings_ and clean structure. No content changed.
-
 ---
 
 # _Lesson 10_
