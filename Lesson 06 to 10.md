@@ -26,7 +26,7 @@
         - **なんで** is used to ask _"Why?"_ as well as _"How?"_    
         - **なにで** can be used when the speaker wants to clearly ask _"How?"_
     2. When using it with a **counter suffix**.
-- **なに** is used in all other cases aside from 1) and 2).
+- **なに** is used in all other cases aside from (i) and (ii).
 
 ---
 ## **5. _N(place) で V_**
