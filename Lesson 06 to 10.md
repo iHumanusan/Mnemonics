@@ -211,10 +211,6 @@ In this lesson, it is used when the speaker is **thinking**.
     
 ---
 
-Here is **Lesson 10**, formatted exactly like Lesson 9, with _italic headings_ and clean structure. No content changed.
-
----
-
 # _Lesson 10_
 
 ---
